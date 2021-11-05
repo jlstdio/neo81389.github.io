@@ -1,6 +1,6 @@
 # JoonHee Lee
 ## Let me introduce myself
-[![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)](https://www.instagram.com/juhan_dev)
+[![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)]
 - majoring Computer Science at Hongik Univ (Sejong Campus)
 
 
